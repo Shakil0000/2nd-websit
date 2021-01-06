@@ -45,9 +45,9 @@ padding: 2px;
 }
 .one-third{
     width: 25%;
+    height: 500px;
     float: left;
     margin: 3%;
-    border: 1px solid red;
     box-shadow: 10px 10px 40px black;
 }
 .one-third img{
@@ -66,7 +66,6 @@ padding: 2px;
 #full{
     width: 60%;
     height: 300px;
-    border: 2px solid black;
     padding: 10px;
     margin: 10px 20%;
     background-image: url(image/last.png);
